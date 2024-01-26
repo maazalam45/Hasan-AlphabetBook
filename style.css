@@ -1,0 +1,626 @@
+.navbar {
+  background-color: black;
+  width: 1350px;
+  height: 40px;
+  position: fixed;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.a {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  position: absolute;
+  margin-left: 15px;
+  border: 1px dotted white;
+}
+
+.b {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 50px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.c {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 85px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.d {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 120px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.e {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 158px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.f {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 195px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.g {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 230px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.h {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 270px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.i {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 310px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.j {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 340px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.k {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 370px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.l {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 410px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.m {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 445px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.n {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 490px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.o {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 530px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.p {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 570px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.q {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 605px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.r {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 645px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.s {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 685px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.t {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 720px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.u {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 755px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.v {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 795px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.w {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 835px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.x {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 880px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.y {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 920px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.z {
+  color: white;
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 960px;
+  position: absolute;
+  border: 1px dotted white;
+}
+.button {
+  background-color: white;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 3px;
+  margin-left: 1150px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px white;
+}
+.button:hover {
+  background-color: gray;
+}
+#A {
+  background-color: rgb(234, 67, 67);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 200px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#B {
+  margin-top: 40px;
+  background-color: rgb(130, 246, 130);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#C {
+  margin-top: 40px;
+  background-color: rgb(255, 183, 50);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#D {
+  margin-top: 40px;
+  background-color: rgb(92, 41, 247);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#E {
+  margin-top: 40px;
+  background-color: rgb(0, 234, 255);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#F {
+  margin-top: 40px;
+  background-color: rgb(216, 52, 245);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#G {
+  margin-top: 40px;
+  background-color: rgb(220, 134, 59);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#H {
+  margin-top: 40px;
+  background-color: rgb(236, 51, 242);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#I {
+  margin-top: 40px;
+  background-color: rgb(80, 227, 80);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#J {
+  margin-top: 40px;
+  background-color: rgb(252, 173, 53);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#K {
+  margin-top: 40px;
+  background-color: rgb(27, 97, 194);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#L {
+  margin-top: 40px;
+  background-color: rgb(253, 70, 217);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#M {
+  margin-top: 40px;
+  background-color: rgb(94, 255, 252);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#N {
+  margin-top: 40px;
+  background-color: rgb(247, 84, 84);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#O {
+  margin-top: 40px;
+  background-color: rgb(255, 255, 81);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#P {
+  margin-top: 40px;
+  background-color: rgb(176, 86, 239);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Q {
+  margin-top: 40px;
+  background-color: rgb(249, 134, 77);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#R {
+  margin-top: 40px;
+  background-color: rgb(8, 160, 120);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#S {
+  margin-top: 40px;
+  background-color: rgba(155, 20, 148, 0.596);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#T {
+  margin-top: 40px;
+  background-color: rgba(17, 165, 24, 0.839);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#U {
+  margin-top: 40px;
+  background-color: rgb(26, 106, 146);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#V {
+  margin-top: 40px;
+  background-color: rgb(180, 121, 240);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#W {
+  margin-top: 40px;
+  background-color: rgb(192, 141, 99);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#X {
+  margin-top: 40px;
+  background-color: rgb(111, 0, 255);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Y {
+  margin-top: 40px;
+  background-color: rgb(155, 23, 87);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Z {
+  margin-top: 40px;
+  background-color: rgb(0, 158, 26);
+  padding: 200px;
+  font-size: 50px;
+  text-align: center;
+  height: 170px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+  font-size: 80px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#button {
+  margin-top: 40px;
+  background-color: yellow;
+
+  font-size: 50px;
+
+  height: 1100px;
+  box-shadow: 30px 30px 30px rgb(0, 0, 0);
+  border-radius: 30px;
+}
+#form {
+  box-shadow: 20px 20px 20px black;
+  margin-left: 160px;
+  text-align: center;
+  font-size: 20px;
+}
+.form {
+  text-align: center;
+  list-style-type: none;
+}
+input.box {
+  width: 50px;
+  height: 30px;
+}
+.input {
+  box-shadow: 10px 10px 10px black;
+}
+.submit {
+  background-color: white;
+  font-size: 30px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
